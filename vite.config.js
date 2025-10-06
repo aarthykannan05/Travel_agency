@@ -4,8 +4,8 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/Travel_agency/',
+  base: "/Travel/",
 })
 
 
-// https://github.com/aarthykannan05/Travel_agency.git
+// https://github.com/aarthykannan05/Travel.git
